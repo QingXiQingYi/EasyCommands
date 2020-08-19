@@ -1,0 +1,5 @@
+name: EasyCommands
+version: ${project.version}
+main: club.mcoc.easycommands.EasyCommands
+api-version: 1.16
+description: 将你的指令化简吧
